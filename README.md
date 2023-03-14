@@ -7,8 +7,8 @@
 	<title>LAYOUT SEDERHANA WEBSITE CSS HTML</title>
 </head>
 <body>
-	<img src="ss1">
-	<img src="ss2">
+	<img src="ss1.png">
+	<img src="ss2.png">
 
 </body>
 </html>
